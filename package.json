@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.16.0",
+    "axios": "^0.25.0",
+    "axios-debug-log": "^0.8.4",
+    "elasticsearch": "^16.7.2"
+  }
+}
